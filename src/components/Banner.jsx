@@ -43,7 +43,7 @@ const Banner = () => {
       <div className="hero-content text-neutral-content text-center">
         <div className="max-w-3xl">
           <h1 className="mb-5 text-5xl font-bold text-center">Welcome to GameHub</h1>
-          <p className="mb-8 text-sm text-center">
+          <p className="mb-8 font-semibold text-gray-400 text-center">
             Explore the latest and most popular mobile phones and computer games from all over the
             world. Enjoy sliding through your favorite titles!
           </p>
