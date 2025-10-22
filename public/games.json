@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "title": "Free Fire",
+    "coverPhoto": "https://i.ibb.co.com/QFRpM8Pk/free-fire.jpg",
+    "category": "Platformer",
+    "downloadLink": "https://example.com/pixel-runner",
+    "description": "Fast-paced pixel platformer with tight controls.",
+    "ratings": "4.9",
+    "developer": "IndieDev Co"
+  },
+  {
+    "id": "2",
+    "title": "PUBG",
+    "coverPhoto": "https://i.ibb.co.com/bgkwX2Jr/pubg.jpg",
+    "category": "Shooter",
+    "downloadLink": "https://example.com/space-raiders",
+    "description": "Arcade space shooter with multiple ships.",
+    "ratings": "4.8",
+    "developer": "Galactic Studios"
+  },
+  {
+    "id": "3",
+    "title": "Call Of Duity",
+    "coverPhoto": "https://i.ibb.co.com/5gnhStzn/call-off-duity.jpg",
+    "category": "Puzzle",
+    "downloadLink": "https://example.com/mystic-puzzle",
+    "description": "Brain-teasing puzzles set in a mystical world.",
+    "ratings": "4.8",
+    "developer": "PuzzleWorks"
+  },
+   {
+    "id": "4",
+    "title": "E-Football",
+    "coverPhoto": "https://i.ibb.co.com/b5zGxYMZ/e-football.jpg",
+    "category": "Puzzle",
+    "downloadLink": "https://example.com/mystic-puzzle",
+    "description": "Brain-teasing puzzles set in a mystical world.",
+    "ratings": "4.7",
+    "developer": "PuzzleWorks"
+  },
+   {
+    "id": "5",
+    "title": "Candy Crush",
+    "coverPhoto": "https://i.ibb.co.com/7dSLT9d7/candy-crush.jpg",
+    "category": "Puzzle",
+    "downloadLink": "https://example.com/mystic-puzzle",
+    "description": "Brain-teasing puzzles set in a mystical world.",
+    "ratings": "4.8",
+    "developer": "PuzzleWorks"
+  },
+   {
+    "id": "6",
+    "title": "Clash of Clans",
+    "coverPhoto": "https://i.ibb.co.com/fYxPMnws/coc.jpg",
+    "category": "Puzzle",
+    "downloadLink": "https://example.com/mystic-puzzle",
+    "description": "Brain-teasing puzzles set in a mystical world.",
+    "ratings": "4.5",
+    "developer": "PuzzleWorks"
+  },
+   {
+    "id": "7",
+    "title": "Temple Run",
+    "coverPhoto": "https://i.ibb.co.com/5XW9Ntqs/temple-run.jpg",
+    "category": "Puzzle",
+    "downloadLink": "https://example.com/mystic-puzzle",
+    "description": "Brain-teasing puzzles set in a mystical world.",
+    "ratings": "4.5",
+    "developer": "PuzzleWorks"
+  },
+   {
+    "id": "8",
+    "title": "Ludu",
+    "coverPhoto": "https://i.ibb.co.com/9HGJvgLV/ludo.jpg",
+    "category": "Puzzle",
+    "downloadLink": "https://example.com/mystic-puzzle",
+    "description": "Brain-teasing puzzles set in a mystical world.",
+    "ratings": "4.5",
+    "developer": "PuzzleWorks"
+  },
+   {
+    "id": "9",
+    "title": "Ashpalt",
+    "coverPhoto": "https://i.ibb.co.com/bM8wrqf4/ashpalt-8.jpg",
+    "category": "Puzzle",
+    "downloadLink": "https://example.com/mystic-puzzle",
+    "description": "Brain-teasing puzzles set in a mystical world.",
+    "ratings": "4.7",
+    "developer": "PuzzleWorks"
+  }
+]
