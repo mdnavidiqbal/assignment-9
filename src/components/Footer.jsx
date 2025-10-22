@@ -1,5 +1,4 @@
 import React from "react";
-
 export default function Footer() {
   return (
     <footer className="footer sm:footer-horizontal bg-neutral text-neutral-content items-center p-4">

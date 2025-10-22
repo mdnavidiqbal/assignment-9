@@ -1,4 +1,3 @@
-// src/components/GameCard.jsx
 import React from "react";
 import { Link } from "react-router";
 import { FaStar } from "react-icons/fa";
@@ -22,8 +21,8 @@ export default function GameCard({ game }) {
             <FaStar className="text-yellow-400" />
           </span>
         </div>
-        <div className="card-actions mt-2">
-          <Link to={`/gamedetails/${game.id}`} className="btn btn-primary">
+        <div className="card-actions mt-2 ">
+          <Link to={`/gamedetails/${game.id}`} className="btn btn-primary bg-[#064e3b] text-white">
             Details
           </Link>
         </div>

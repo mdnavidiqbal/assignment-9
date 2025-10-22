@@ -1,5 +1,3 @@
-
-
 import React, { useEffect, useRef, useState } from "react";
 import { gsap } from "gsap";
 import GameCard from "./GameCard";
@@ -44,8 +42,8 @@ const Banner = () => {
 
       <div className="hero-content text-neutral-content text-center">
         <div className="max-w-3xl">
-          <h1 className="mb-5 text-5xl font-bold">Welcome to GameHub</h1>
-          <p className="mb-8 text-sm">
+          <h1 className="mb-5 text-5xl font-bold text-center">Welcome to GameHub</h1>
+          <p className="mb-8 text-sm text-center">
             Explore the latest and most popular indie games from all over the
             world. Enjoy sliding through your favorite titles!
           </p>

@@ -88,5 +88,35 @@
     "description": "Brain-teasing puzzles set in a mystical world.",
     "ratings": "4.7",
     "developer": "PuzzleWorks"
+  },
+   {
+    "id": "10",
+    "title": "Split Fiction",
+    "coverPhoto": "https://i.ibb.co.com/yBnwxhqV/Split-fiction.jpg",
+    "category": "Puzzle",
+    "downloadLink": "https://example.com/mystic-puzzle",
+    "description": "Brain-teasing puzzles set in a mystical world.",
+    "ratings": "4.7",
+    "developer": "PuzzleWorks"
+  },
+   {
+    "id": "11",
+    "title": "IGN",
+    "coverPhoto": "https://i.ibb.co.com/nF4RsR1/ign.jpg",
+    "category": "Puzzle",
+    "downloadLink": "https://example.com/mystic-puzzle",
+    "description": "Brain-teasing puzzles set in a mystical world.",
+    "ratings": "4.9",
+    "developer": "PuzzleWorks"
+  },
+   {
+    "id": "9",
+    "title": "Balour's Gate",
+    "coverPhoto": "https://i.ibb.co.com/Pv2BCqRc/Balour-s-gate.jpg",
+    "category": "Puzzle",
+    "downloadLink": "https://example.com/mystic-puzzle",
+    "description": "Brain-teasing puzzles set in a mystical world.",
+    "ratings": "4.7",
+    "developer": "PuzzleWorks"
   }
 ]

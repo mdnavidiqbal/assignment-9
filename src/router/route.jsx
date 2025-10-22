@@ -1,4 +1,4 @@
-// import { createBrowserRouter } from "react-router";
+
 
 import { createBrowserRouter } from "react-router";
 import Home from "../pages/Home";
@@ -11,12 +11,6 @@ import NotFound from "../pages/NotFound";
 import GameDetails from "../pages/GameDetails";
 import Popular from "../pages/Popular";
 
-// export const router = createBrowserRouter([
-//   {
-//     path:"/",
-//     element:
-//   },
-// ]);
 
 export const router = createBrowserRouter([
   {
