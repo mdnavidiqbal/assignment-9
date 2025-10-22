@@ -18,7 +18,7 @@ const Banner = () => {
 
       gsap.to(slider, {
         x: `-${totalWidth}px`,
-        duration: 30,
+        duration: 49,
         ease: "none",
         repeat: -1, 
         modifiers: {
