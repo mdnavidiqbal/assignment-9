@@ -44,7 +44,7 @@ const Banner = () => {
         <div className="max-w-3xl">
           <h1 className="mb-5 text-5xl font-bold text-center">Welcome to GameHub</h1>
           <p className="mb-8 text-sm text-center">
-            Explore the latest and most popular indie games from all over the
+            Explore the latest and most popular mobile phones and computer games from all over the
             world. Enjoy sliding through your favorite titles!
           </p>
           <div className="relative overflow-hidden w-full">
