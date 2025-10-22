@@ -35,5 +35,5 @@ GameHub is an android and computer game library SPA built with React, TailwindCS
 - If deploy on Netlify, add `_redirects` file: `/* /index.html 200`
 
 ## Links
-- Live: <inquisitive-sawine-f3f43d.netlify.app>
+- Live: inquisitive-sawine-f3f43d.netlify.app
 - Repo: <https://github.com/mdnavidiqbal/assignment-9.git>
