@@ -8,7 +8,7 @@ export default function MyProfile() {
   if (!user) return <div>Loading...</div>;
 
   return (
-    <div className="max-w-lg mx-auto bg-base-200 p-6 rounded-xl shadow-lg text-center my-30">
+    <div className="max-w-lg mx-auto bg-base-200 p-6 rounded-xl shadow-2xl text-center my-30">
       <h2 className="text-3xl font-bold mb-4">My Profile</h2>
       <img
         src={user.photoURL || "https://i.ibb.co/3C5xJ7R/user.png"}
