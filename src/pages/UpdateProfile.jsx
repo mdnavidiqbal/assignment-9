@@ -13,7 +13,7 @@ export default function UpdateProfile() {
     try {
       await updateUserProfile({ displayName: name, photoURL: photo });
       alert("Profile updated successfully!");
-      navigate("/my-profile");
+      navigate("/myprofile");
     } catch (error) {
       console.error(error);
       alert("Failed to update profile.");
@@ -21,7 +21,7 @@ export default function UpdateProfile() {
   };
 
   return (
-    <div className="max-w-md mx-auto bg-base-200 p-6 rounded-xl shadow-lg">
+    <div className="max-w-md mx-auto bg-base-400 p-6 rounded-xl shadow-xl my-20">
       <h2 className="text-2xl font-bold mb-4 text-center">Update Information</h2>
       <form onSubmit={handleUpdate} className="space-y-4">
         <input

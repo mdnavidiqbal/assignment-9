@@ -19,7 +19,7 @@ export default function MyProfile() {
       <p className="text-sm text-gray-600">{user.email}</p>
 
       <div className="mt-6 flex justify-center gap-4">
-        <Link to="/update-profile" className="btn btn-primary">Update Info</Link>
+        <Link to="/updateprofile" className="btn btn-primary">Update Info</Link>
         <button onClick={logout} className="btn btn-outline">Logout</button>
       </div>
     </div>

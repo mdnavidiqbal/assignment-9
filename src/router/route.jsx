@@ -10,6 +10,7 @@ import Register from "../pages/Register";
 import NotFound from "../pages/NotFound";
 import GameDetails from "../pages/GameDetails";
 import Popular from "../pages/Popular";
+import UpdateProfile from "../pages/UpdateProfile";
 
 
 export const router = createBrowserRouter([
@@ -46,6 +47,10 @@ export const router = createBrowserRouter([
       {
         path:"/popular",
         element:<Popular></Popular>
+      },
+      {
+        path:"/updateprofile",
+        element: <UpdateProfile></UpdateProfile>
       }
     ]
   },
