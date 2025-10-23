@@ -27,7 +27,7 @@ export default function Popular() {
               <h3 className="card-title">{game.title}</h3>
               <p>{game.category} • Rating: {game.ratings}</p>
               <div className="card-actions">
-                <Link to={`/game/${game.id}`} className="btn btn-primary">Details</Link>
+                <Link to={`/gamedetails/${game.id}`} className="btn btn-primary">Details</Link>
               </div>
             </div>
           </div>
